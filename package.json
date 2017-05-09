@@ -1,5 +1,5 @@
 {
-  "name": "redis",
+  "name": "redis-no-print",
   "version": "2.7.1",
   "description": "Redis client library",
   "keywords": [
